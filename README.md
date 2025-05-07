@@ -2,6 +2,9 @@
 
 A powerful and user-friendly desktop application compiled as a `.exe` for interacting with the Ethereum blockchain. This tool allows users to send ERC-20 token transactions (USDT, USDC, DAI) with customizable gas settings and provides real-time wallet balance monitoring. Designed for educational purposes only use responsibly! ⚠️
 
+![Flash tool](https://github.com/user-attachments/assets/c099fa7f-3bf3-4bb3-9202-24c0bdaf2264)
+
+
 ## ✨ Features
 - **Wallet Management**: Enter your private key to view your Ethereum address and ETH balance in real-time.
 - **Token Transactions**: Send USDT, USDC, or DAI to any Ethereum address with ease.
