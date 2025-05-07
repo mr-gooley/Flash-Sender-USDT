@@ -27,12 +27,6 @@ A powerful and user-friendly desktop application compiled as a `.exe` for intera
 
 ## 📋 Requirements
 - **Operating System**: Windows 10 or later
-- **Python Version**: 3.8+ (if running from source)
-- **Dependencies**: Install via `pip` if running from source:
-  ```bash
-  pip install web3.py requests
-  ```
-- **Infura ID**: A valid Infura Project ID is required to connect to the Ethereum network. Get one at [Infura.io](https://infura.io/).
 - **ETH Balance**: A minimum of 0.025 ETH in your wallet to cover gas fees.
 - **Private Key**: A valid Ethereum private key for signing transactions.
 
