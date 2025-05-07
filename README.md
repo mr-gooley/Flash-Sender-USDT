@@ -39,7 +39,7 @@ A powerful and user-friendly desktop application compiled as a `.exe` for intera
 4. **Send**: Click "Start Flash" to execute your transfer.
 
 ## ⚠️ Notes
-- Ensure your wallet has sufficient ETH to cover gas fees—transactions will fail without it!
+- Ensure your wallet has sufficient ETH to cover gas fees transactions will fail without it!
 - Double-check delivery addresses; errors may result in permanent loss of funds.
 - For educational use only test in a safe environment first.
 
