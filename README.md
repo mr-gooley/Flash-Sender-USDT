@@ -31,7 +31,7 @@ In this repository, you can find a wide range of resources and tools to enhance 
 We welcome contributions from the community to improve and expand the capabilities of our USDT flashing tools. Feel free to fork this repository, make your enhancements, and submit a pull request. Together, we can push the boundaries of USDT technology!
 
 ## Screenshots
-![Flash USDT Software Interface](https://i.ibb.co/Kzr5ddF/Flash-tool.png)
+![Flash USDT Software Interface](https://raw.githubusercontent.com/mahadaconfigs/Flash-Sender-USDT/main/images/Flash-tool.png)
 
 ### Support 💬
 If you have any questions, feedback, or suggestions, please don't hesitate to reach out to us. Our team is dedicated to providing you with top-notch support and assistance for all your USDT flashing needs.
